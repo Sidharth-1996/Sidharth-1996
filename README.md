@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sidharth Sharma</h1>
-<h3 align="center">A hardworking and effective Front-end developer who is looking forward to increase his skills as well as his experience. Bilingual, astute, and deadline-driven. Seeking a developer position where a strong understanding of technology and marketing background can be best utilized.</h3>
+<h3 align="center">Enthusiastic BTech undergraduate with a robust foundation in computer science and expertise in HTML, CSS, C, C++, Python, and Android development. Proven experience in collaborative projects and effective problem-solving. Currently advancing skills in Data Structures and Algorithms (DSA) using C++ and expanding knowledge in Android development with Kotlin, emphasizing core components and industry best practices..</h3>
 
 - 🌱 I’m currently learning **Android Studio(Kotlin)**
 
