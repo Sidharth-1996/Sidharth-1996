@@ -3,51 +3,66 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sidharth-sharma-4a3972227/" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sharmasidharth784@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://stackoverflow.com/users/18798975" target="blank">
+    <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
   </a>
 </p>
 
-<h3 align="center">Architecting scalable digital solutions across web and mobile platforms with a focus on performance and user experience.</h3>
+---
 
-- 🚀 **Currently focused on**: Building high-impact full-stack applications and exploring advanced system design.
-- 🌱 **I’m currently mastering**: Optimizing React performance and advanced Jetpack Compose UI patterns.
-- 💻 **Recent Work**: Developed production-ready features for e-commerce and task management platforms during my recent industry tenures.
-- 📫 **Reach me at**: **sharmasidharth784@gmail.com**
+### ⚡ About Me
 
-<h3 align="left">Connect with me:</h3>
+> **Architecting scalable digital solutions across web and mobile platforms with a focus on performance and user experience.** As a **Software Engineering Graduate**, I bridge the gap between complex algorithmic logic and functional, production-ready applications.
+
+- 🚀 **Professional Status**: Recently completed industry tenures focusing on production-ready Full-Stack features.
+- 💡 **Current Focus**: Building high-impact scalable applications and exploring advanced system design.
+- 🌱 **Mastering**: Optimizing React performance and advanced Jetpack Compose UI patterns.
+- 💻 **Recent Work**: Delivered role-based management systems and real-time e-commerce platforms.
+- 📊 **Analytical Edge**: Utilizing **Tableau** to back technical solutions with solid data-driven reasoning.
+
+---
+
+### 🛠 Languages and Tools
+
 <p align="left">
-<a href="https://linkedin.com/in/sidharth-sharma-4a3972227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidharth-sharma-4a3972227" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18798975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18798975" height="30" width="40" /></a>
-<a href="https://twitter.com/sidhart82347326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sidhart82347326" height="30" width="40" /></a>
-<a href="https://instagram.com/sidharth_sharma59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidharth_sharma59" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
-  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-plain.svg" alt="tableau" width="40" height="40"/>
+</p>
+
+---
+
+### 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sidharth-1996&layout=compact&theme=vision-friendly-dark&hide_border=true&cache_id=1" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sidharth-1996&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Sidharth-1996" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sidharth-1996&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&cache_id=1" alt="General Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sidharth-1996&show_icons=true&theme=vision-friendly-dark" alt="Sidharth-1996" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidharth-1996&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:sharmasidharth784@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Talk-sharmasidharth784%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
